@@ -1,4 +1,4 @@
-## Fur
+## Thug Shirt
 
 E-commerce template for Jekyll. Browse through a [live demo](https://turquoise-rook.cloudvent.net).
 
