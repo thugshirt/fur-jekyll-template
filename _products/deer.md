@@ -1,5 +1,5 @@
 ---
-name: Sacha the Deer
+name: Trump the Condom
 description_markdown: >-
   Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
   this majestic beast and feel all your problems float away.
