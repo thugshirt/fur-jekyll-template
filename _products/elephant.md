@@ -1,5 +1,5 @@
 ---
-name: Bumble the Elephant
+name: Agent 47
 description_markdown: >-
   Bumble the humble elephant is your shining star. He will always remember who
   you are and why you are here.
