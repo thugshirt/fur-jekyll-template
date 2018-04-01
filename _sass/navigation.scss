@@ -21,33 +21,7 @@ header {
 	p {
 		margin: 0;
 	}
-	@media #{$mid-point} {
-		&:before, &:after {
-			content: "";
-			width: 25%;
-			display: block;
-			position: absolute;
-			border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
-			transform: translate(-50%, 0);
-
-		}
-
-		&:before {
-			transform: skewX(-15deg);
-			box-shadow: 99px 29px 170px -24px rgba(0,0,0,.05);
-			top: -254px;
-			bottom: 50%;
-			left: 43%
-		}
-
-		&:after {
-			box-shadow: inset 92px -41px 104px -28px rgba(0,0,0,.05);
-			transform: skewX(-12deg);
-			top: 47%;
-			left: 40%;
-			bottom: -121px;
-		}
-	}
+	
 
 	a {
 		color: #fff;
